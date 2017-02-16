@@ -1,0 +1,15 @@
+body{
+	background-color: black;
+}
+h1{
+	font-weight: bold;
+}
+#number{
+	font-size: 40px;
+	font-style: oblique;	
+}
+.panel{
+	top: 50%;
+	left: 50%;
+
+}
